@@ -8,7 +8,7 @@ Installation:
 
 ## Python:
 
-![Singing Stars Screenshot](imgs/python.png)
+![Singing Stars Screenshot](imgs/python.jpg)
 
 ## Bash:
 
@@ -16,5 +16,5 @@ Installation:
 
 ## HTML:
 
-![Singing Stars Screenshot](imgs/html.png)
+![Singing Stars Screenshot](imgs/html.jpg)
 
