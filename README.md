@@ -18,3 +18,8 @@ Installation:
 
 ![Singing Stars Screenshot](imgs/html.jpg)
 
+Author Information
+------------------
+
+Andrew Shagayev | [e-mail](mailto:drewshg@gmail.com)
+
