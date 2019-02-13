@@ -3,8 +3,10 @@
 High contrast dark theme for Sublime Editor.
 
 Installation:
-    git clone https://github.com/Drewshg312/sublime-singing-stars.git
-    cp sublime-singing-stars/SingingStars.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/
+```
+git clone https://github.com/Drewshg312/sublime-singing-stars.git
+cp sublime-singing-stars/SingingStars.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/
+```
 
 ## Python:
 
